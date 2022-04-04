@@ -1,0 +1,18 @@
+https://github.com/github/gitignore.git
+At first, I didn't know what a gitignore was and had to research it a bit. I was surprised and found it interesting that there were so 
+many different templates.
+
+https://github.com/rdeepak2002/reddit-place-script-2022.git
+r/place has been trending recently, and I wasn't quite sure how it worked. After learning only one user can contribute one pixel to the 
+canvas every five minutes, I wasn't surprised people would find a way to create images by using a script using multiple workers, 
+although this does defeat the purpose of the community building.
+
+https://github.com/ThioJoe/YT-Spammer-Purge.git
+I found it interesting how an algorithm could be used to determine if a comment was considered spam, since there are endless 
+combinations of letters. Of course, there are also filters for specific users, words, etc.
+
+https://github.com/gitpod-io/gitpod.git
+I found it interesting cool that an IDE was developed on the browser. Gitpod feels very similar to Visual Studio and supports many languages.
+
+https://github.com/scottbez1/smartknob.git
+I thought it was cool how people figured out how to simulate a virtual detent in a motor.
